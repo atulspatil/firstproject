@@ -70,3 +70,5 @@ def is_prime2(num):
     return True
 
 print(is_prime(151))
+
+print ('I have aaded this code...please take a pull first')
